@@ -286,7 +286,7 @@ End With
 ExportPlotData output
 
 
-proj.SaveAs "C:\Users\konstantin.grotov\Documents\tratra.cst", True
+proj.SaveAs "Absolute\path\ouput.txt", True
 proj.Quit
  
 Set studio = Nothing

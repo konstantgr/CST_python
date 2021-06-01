@@ -9,7 +9,7 @@ Set proj = studio.Active3D
 
 Dim Text As String, textline As String, posLat As Integer, posLong As Integer
 
-myFile = "C:\Users\konstantin.grotov\Documents\CST_python\input.txt"
+myFile = "Set/Absolute/Path/To/Input.txt"
 
 Open myFile For Input As #1
 Dim t As String
@@ -23,8 +23,6 @@ Do Until EOF(1)
 Loop
 Close #1
 
-'route  = "C:\Users\konstantin.grotov\Documents\MOM_Antenna-main\MOM_Antenna-main\data\cubic_geometry\lengths_for_cst\TO_CST_CUBIC_Lfrom10to24_N3_tau6_iter100_runsmax10_seed52.txt"
-'N = 3
 is_cubic_geometry = True
 
 StoreDoubleParameter "r", 0.5

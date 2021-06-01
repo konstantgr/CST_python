@@ -1,0 +1,1 @@
+C:\Users\konstantin.grotov\Documents\CST_python\example_N3.txt C:\Users\konstantin.grotov\Documents\CST_python\output.txt 3

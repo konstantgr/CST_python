@@ -8,3 +8,5 @@ To start using this script:
 1. In <code>script.bas</code> set variable <code>myFile</code> as absolute path to input.txt on your PC.
 2. In <code>main.ipynb</code> set variable <code>route</code> as absolute path to file with (length, x, y) data.
 3. In <code>main.ipynb</code> set variable <code>output</code> as absolute path where you want to see an output.
+4. In <code>main.ipynb</code> set variable <code>route_to_CST_DE</code> as absolute path where <i>CST DESIGN ENVIRONMENT.exe</i> stores.
+
